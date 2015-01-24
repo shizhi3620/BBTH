@@ -12,3 +12,5 @@ Tips:do not download big files by this proxy,or other friends may can't get any 
 
 注意：请不要用代理下载大的文件，如电影等，带宽有限，否则其它小伙伴就无法使用了。
 
+设置方法参见右侧：wiki页
+
