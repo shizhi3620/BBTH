@@ -5,6 +5,8 @@ I just started it by myself with limited bandwidth, speed will get slower if too
 
 Tips:do not download big files by this proxy,or other friends may can't get any resource.
 
+If you view this website on mobile device,switch to the desktop version by click"Desktop version" on the end of page,or will not see the WiKi page on the right.
+
 
 这是一个免费的代理项目，我只是希望人们可以借此访问常用的google,facebook,twitter等网站。
 
@@ -12,5 +14,5 @@ Tips:do not download big files by this proxy,or other friends may can't get any 
 
 注意：请不要用代理下载大的文件，如电影等，带宽有限，否则其它小伙伴就无法使用了。
 
-设置方法参见右侧：wiki页
+设置方法参见右侧：wiki页(移动设备请选择桌面浏览模式)
 
