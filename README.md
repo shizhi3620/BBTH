@@ -6,7 +6,9 @@ I just started it by myself with limited bandwidth, speed will get slower if too
 Tips:do not download big files by this proxy,or other friends may can't get any resource.
 
 If you view this website on mobile device,switch to the desktop version by click"Desktop version" on the end of page,or will not see the WiKi page on the right.
-PS: I personally recommend use the Shadowsock cliet,U can write an Email to me to get the IP and password,Refer to this link to download the cliet:http://shadowsocks.org/en/download/clients.html
+
+PS: I personally recommend use the Shadowsock cliet,U can write an Email to me to get the server IP and password,Refer to this link to download the cliet:
+http://pan.baidu.com/s/1mgmYEjI
 
 
 这是一个免费的代理项目，我只是希望人们可以借此访问常用的google,facebook,twitter等网站。
@@ -17,5 +19,6 @@ PS: I personally recommend use the Shadowsock cliet,U can write an Email to me t
 
 设置方法参见右侧：wiki页(移动设备请选择桌面浏览模式)
 
-重要说明：个人推荐使用shadowsocks 客户端进行访问，具体IP地址和密码请写邮件给我，客户端下载地址：http://shadowsocks.org/en/download/clients.html
+重要说明：个人推荐使用shadowsocks 客户端进行访问，具体服务IP地址和密码请写邮件给我，客户端下载地址：
+http://pan.baidu.com/s/1mgmYEjI
 
