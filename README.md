@@ -10,6 +10,8 @@ If you view this website on mobile device,switch to the desktop version by click
 PS: I personally recommend use the Shadowsock cliet,U can write an Email to me to get the server IP and password,Refer to this link to download the cliet:
 http://pan.baidu.com/s/1mgmYEjI
 
+######New branch test######
+
 
 这是一个免费的代理项目，我只是希望人们可以借此访问常用的google,facebook,twitter等网站。
 
